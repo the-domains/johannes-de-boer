@@ -2,12 +2,13 @@ name: Johannes de Boer
 favicon: null
 layout_spectrum: 0.5571604617871344
 typography_spectrum: 0.7979751001112163
+title: My personal website
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-11610311-2
   facebook: null
   twitter: null
 opengraph:
