@@ -1,0 +1,28 @@
+name: Johannes de Boer
+favicon: null
+layout_spectrum: 0.5571604617871344
+typography_spectrum: 0.7979751001112163
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6178743022028357
+  lightness: 0.49038230907171965
+  saturation: 0.5718190239276737
+  rhythmicContrast: 0.8306448748335242
+purpose: []
